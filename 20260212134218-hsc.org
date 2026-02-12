@@ -28,7 +28,7 @@ These further differentiate into:
   - Eosinophils[fn:1]
 - Monoblasts
   - Monocytes
-    - Macrophages
+    - [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][Macrophages]]
     - Dentritic Cells
 
 ** Lymphoid stem cells
@@ -38,4 +38,4 @@ These further differentiate into:
 
 * Footnotes
 
-[fn:1] granulocytes 
+[fn:1] Granulocytes 

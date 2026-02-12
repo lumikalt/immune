@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d94c3c0d-ece1-4160-82db-2ffdb2d0cddf
+:END:
+#+title: Phagocytes 
+
+Cells that perform phagocytosis.
+
+* Phagocytosis
+:PROPERTIES:
+:ID:       50e80900-a8db-4435-b457-12ea355843d9
+:END:
+The process by which a pathogen is engulfed and ingested.

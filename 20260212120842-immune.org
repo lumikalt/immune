@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       2ddc83c5-0a1f-447a-a746-e2a3da12247b
+:END:
+#+title: Immune System
+
+* Functions
+How these functions of the immune system are expressed depends on where an infection occurs.
+Also, many cells exist in this system, and each plays their own role.
+
+** Recognise
+The immune system must recognise pathogens and infected/corrupted cells, distinguishing self from non-self.
+It must also be able to recognise [[id:e888562a-30b2-4bad-9810-55c19836b28d][Cytokines]] and [[id:ca6eb72d-0192-41ad-9ca4-d6ad5aae6d63][Chemokines]].
+
+** Respond
+Deploy effector functions:
+- kill pathogens and infected cells;
+- stimulate wound healing;
+- clear cellular debris;
+- coordinate the immune response.
+
+** Regulate
+The immune system damages the body. As such, its response must be balanced.
+Most immune cells must be activated before they can act.
+This helps prevent [[id:05855572-a5fe-4d6d-8e00-4e19e813b053][Autoimmunity]].
+Also, cells can emit [[id:e888562a-30b2-4bad-9810-55c19836b28d][Cytokines]] to turn down the immune response and begin repair work.
+
+** Remember
+The [[id:cfa4ed29-39de-4e4d-907a-4a749a822478][Adaptive Immune System]] remembers previous infections, preventing a second infection by a pathogen.
+This is the basis behind vaccination.
+
+* Immune cells
+Most immune cells originate from the bone marrow.
+They develop from [[id:9bb41144-8beb-480f-a9ad-22532e47ee39][HSC]]. HSC can differentiate into white blood cells by taking two tracks: the  and the lymphoid lineage. This is done by following specific sets of molecular cues in the bone marrow.
+Historically, cells were characterised by how they appeared under a microscope, but modern molecular tools allow defining them by the proteins they express on their surfaces, and thus which genes they are expressing.
+
+** Myeloid Lineage
+:PROPERTIES:
+:ID:       fb726d2e-66c8-431c-a5fb-bd8b43e5b0c5
+:END:
+- Monocytes
+- Macrophages
+- Dentritic Cells
+- Basophils
+
+
+** Lymphoid Lineage
+:PROPERTIES:
+:ID:       7cc2fdd3-a2b5-4b09-8a20-cdf06d048c8f
+:END:
+

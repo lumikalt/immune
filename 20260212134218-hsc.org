@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       9bb41144-8beb-480f-a9ad-22532e47ee39
+:END:
+#+title: HSC
+
+* Hematopoietic Stem Cells
+HSC in the red bone marrow differentiate into red blood cells, white blood cells and platelets.
+
+* Differentiation Lineages
+HSC differentiates into Myeloid stem cells or Lymphoid stem cells
+
+** Myeloid stem cells
+:PROPERTIES:
+:ID:       b17487fa-63a0-48d1-b027-4c6de071d60e
+:END:
+The Myeloid Lineage.
+These further differentiate into:
+- Megakaryoblasts
+  - Megakaryocytes
+    - Platelets
+- Proerythroblasts
+  - Reticulocytes
+    - Erythocytes
+- Mast cells[fn:1]
+- Myeloblasts
+  - Basophils[fn:1]
+  - Neutrophils[fn:1]
+  - Eosinophils[fn:1]
+- Monoblasts
+  - Monocytes
+    - Macrophages
+    - Dentritic Cells
+
+** Lymphoid stem cells
+The Lymphoid Lineage.
+These further differentiate into:
+- 
+
+* Footnotes
+
+[fn:1] granulocytes 

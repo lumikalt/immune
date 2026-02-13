@@ -34,7 +34,12 @@ These further differentiate into:
 ** Lymphoid stem cells
 The Lymphoid Lineage.
 These further differentiate into:
-- 
+- Lymphoblast
+  - Natural Killer Cells
+  - Small Lymphocytes
+    - T Lymphocytes
+    - B Lymphocytes
+      - Plasma Cells
 
 * Footnotes
 

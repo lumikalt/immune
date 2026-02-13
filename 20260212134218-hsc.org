@@ -9,7 +9,7 @@ HSC in the red bone marrow differentiate into red blood cells, white blood cells
 * Differentiation Lineages
 HSC differentiates into Myeloid stem cells or Lymphoid stem cells
 
-** Myeloid stem cells
+** Myeloid Stem Cells
 :PROPERTIES:
 :ID:       b17487fa-63a0-48d1-b027-4c6de071d60e
 :END:
@@ -21,7 +21,7 @@ These further differentiate into:
 - Proerythroblasts
   - Reticulocytes
     - Erythocytes
-- Mast cells[fn:1]
+- Mast Cells[fn:1]
 - Myeloblasts
   - Basophils[fn:1]
   - Neutrophils[fn:1]
@@ -29,13 +29,17 @@ These further differentiate into:
 - Monoblasts
   - [[id:d0543e0a-ef0b-4990-b67b-c68084aa2467][Monocytes]]
     - [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][Macrophages]]
-    - Dentritic Cells
+    - [[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][Dentritic Cells]]
 
-** Lymphoid stem cells
+** Lymphoid Stem Cells
+:PROPERTIES:
+:ID:       9388b024-7c46-49f2-aa1c-af5b929080e4
+:END:
 The Lymphoid Lineage.
 These further differentiate into:
-- Lymphoblast
+- Lymphoblasts
   - Natural Killer Cells
+    (Large Granular Lymphocytes)
   - Small Lymphocytes
     - T Lymphocytes
     - B Lymphocytes

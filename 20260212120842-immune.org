@@ -30,21 +30,7 @@ This is the basis behind vaccination.
 
 * Immune cells
 Most immune cells originate from the bone marrow.
-They develop from [[id:9bb41144-8beb-480f-a9ad-22532e47ee39][HSC]]. HSC can differentiate into white blood cells by taking two tracks: the  and the lymphoid lineage. This is done by following specific sets of molecular cues in the bone marrow.
+They can develop from [[id:9bb41144-8beb-480f-a9ad-22532e47ee39][HSC]]. HSC can differentiate into white blood cells by taking two tracks: the [[id:b17487fa-63a0-48d1-b027-4c6de071d60e][Myeloid Lineage]] and the [[id:9388b024-7c46-49f2-aa1c-af5b929080e4][Lymphoid Lineage]]. This is done by following specific sets of molecular cues in the bone marrow.
 Historically, cells were characterised by how they appeared under a microscope, but modern molecular tools allow defining them by the proteins they express on their surfaces, and thus which genes they are expressing.
 
-** Myeloid Lineage
-:PROPERTIES:
-:ID:       fb726d2e-66c8-431c-a5fb-bd8b43e5b0c5
-:END:
-- Monocytes
-- Macrophages
-- Dentritic Cells
-- Basophils
-
-
-** Lymphoid Lineage
-:PROPERTIES:
-:ID:       7cc2fdd3-a2b5-4b09-8a20-cdf06d048c8f
-:END:
-
+* The [[id:c32530ad-a9fb-49e9-a32a-3fb6cd7a56d2][Lymphatic System]]

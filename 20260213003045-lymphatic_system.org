@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       c32530ad-a9fb-49e9-a32a-3fb6cd7a56d2
+:END:
+#+title: Lymphatic System 
+
+How can immune cells meet and provide the necessary stimulation efficiently when they must first be activated?
+How is this done quickly enough such that invaders are eliminated?
+This is the (main) purpose of the lymphatic system.
+
+* Structure
+** Adenoids
+
+** Appendix
+
+** Bone Marrow
+
+** Bronchus-associated Lymphoid Tissue
+
+** Intestine
+
+** Lymph Nodes
+:PROPERTIES:
+:ID:       e4224d01-d723-4ebf-af3a-d9d5f708abf6
+:END:
+There are hundreds of lymph nodes throughout the body.
+They act as outposts where immune cells can meet and interact, giving eachother the activating and costimulatory signals necessary to launch a successful immune response.
+
+*** Structure
+The node is surrounded by a protective layer of connective tissue: the capsule.
+Lymph arrives at the node by afferent lymphatic vessels, which then enters the synuses, channels that allow lymph to flow through the different compartments of the node.
+These synuses are lined with [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][macrophages]] and [[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][dentritic cells]].
+These sample the lymph for pathogens and cellular debris, to then present those antigens to [[id:b41a8603-b190-47ff-b727-e8aee492818c][T cells]].
+
+** Payer's Patches
+
+** Spleen
+
+** Thymus
+
+** Tonsils
+
+
+* Function
+Many Lymphatic Capillaries are spread throughout tissues.
+These receive fluids, proteins and potential pathogens.
+This fluid, called Lymph, is pushed through Lymphatic Vessels into the Lymph Nodes.

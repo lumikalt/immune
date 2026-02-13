@@ -27,7 +27,7 @@ These further differentiate into:
   - Neutrophils[fn:1]
   - Eosinophils[fn:1]
 - Monoblasts
-  - Monocytes
+  - [[id:d0543e0a-ef0b-4990-b67b-c68084aa2467][Monocytes]]
     - [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][Macrophages]]
     - Dentritic Cells
 

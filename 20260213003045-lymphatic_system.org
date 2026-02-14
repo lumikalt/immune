@@ -25,15 +25,29 @@ This is the (main) purpose of the lymphatic system.
 There are hundreds of lymph nodes throughout the body.
 They act as outposts where immune cells can meet and interact, giving eachother the activating and costimulatory signals necessary to launch a successful immune response.
 
-*** Structure
 The node is surrounded by a protective layer of connective tissue: the capsule.
 Lymph arrives at the node by afferent lymphatic vessels, which then enters the synuses, channels that allow lymph to flow through the different compartments of the node.
+
 These synuses are lined with [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][macrophages]] and [[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][dentritic cells]].
-These sample the lymph for pathogens and cellular debris, to then present those antigens to [[id:b41a8603-b190-47ff-b727-e8aee492818c][T cells]].
+These sample the lymph for pathogens and cellular debris. If they catch pathogens or debris that can trigger an immune reaction, they present those antigens to [[id:b41a8603-b190-47ff-b727-e8aee492818c][T cells]].
+The [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][macrophages]] act as filters in the node, trapping lymph-borne pathogens and preventing them from infecting other cells in the node and beyond.
+
+Each node has specific compartments for distinct cell types. This is largely defined by [[id:ca6eb72d-0192-41ad-9ca4-d6ad5aae6d63][chemokines]]. These allow for [[id:49c29c2a-80c4-4e8b-9ab3-6c4e12129e1c][lymphocytes]] to efficiently find their [[id:7f1f4f7c-d8dd-47bc-9bb9-17e1513a634c][cognate antigens]] and interact with other cells in order to initiate an immune response.
+Closer to the capsule is the outer cortex, also known as the [[id:59e57bc1-545d-4cdb-9d15-3318fffeaa08][B cell]] zone. It is made up of spherical follicles full of [[id:59e57bc1-545d-4cdb-9d15-3318fffeaa08][B cells]]. Deeper into the node is the [[id:b41a8603-b190-47ff-b727-e8aee492818c][T cell]] zone.
+
+[[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][DC]]s that have been sampling bits of microbes or cellular debris throughout the body migrate to the T cell zone of lymph nodes after activation. Then, they present these antigens to the [[id:b41a8603-b190-47ff-b727-e8aee492818c][T cells]], looking for the that matches their [[id:262f459e-3873-4ce0-819f-03eab3300722][antigen]].
+[[id:f68ee1e7-75a1-449d-8e39-38b88e0d82af][Helper T Cells]] tend to live in the margins between T and B cell zones. This allows them to find the [[id:59e57bc1-545d-4cdb-9d15-3318fffeaa08][B cell]] that shares its [[id:7f1f4f7c-d8dd-47bc-9bb9-17e1513a634c][cognate antigen]]. This gives rise to *germinal centres*, sites of [[id:59e57bc1-545d-4cdb-9d15-3318fffeaa08][B Cell]] activation and division.
+
+[[id:e4f76ad7-2a12-4edf-bd0a-f2c4e44cc81e][Naïve lymphocytes]] drain from the blood into the lymph nodes, where they circulate through their respective zones, looking for cells presenting their [[id:7f1f4f7c-d8dd-47bc-9bb9-17e1513a634c][cognate antigen]].
+If they don't find it, they move from node to node and then back into the bloodstream.
+If they do, and receive the proper costimulation, the [[id:49c29c2a-80c4-4e8b-9ab3-6c4e12129e1c][lymphocyte]] becomes activated. It starts dividing rapidly and then migrates to the infection site.
 
 ** Payer's Patches
 
 ** Spleen
+:PROPERTIES:
+:ID:       fb07ddef-6a28-40c5-be6e-5a567e35d221
+:END:
 
 ** Thymus
 

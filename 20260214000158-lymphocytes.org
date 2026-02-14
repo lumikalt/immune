@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       49c29c2a-80c4-4e8b-9ab3-6c4e12129e1c
+:END:
+#+title: Lymphocytes
+
+* Naïve Lymphocytes
+:PROPERTIES:
+:ID:       e4f76ad7-2a12-4edf-bd0a-f2c4e44cc81e
+:END:
+[[id:b41a8603-b190-47ff-b727-e8aee492818c][T]] and [[id:59e57bc1-545d-4cdb-9d15-3318fffeaa08][B Cells]] that haven't been activated yet.

@@ -3,3 +3,4 @@
 :END:
 #+title: Antigens
 
+Any molecule that can bind specifically to an antibody or generate peptide fragments that are recognized by a T-cell receptor.

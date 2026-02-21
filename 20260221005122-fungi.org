@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0f31a4d9-e6fb-4dd9-b861-57df09fa41b0
+:END:
+#+title: Fungi
+#+filetags: :pathogen:
+
+A kingdom of single-celled and multicellular eukaryotic organisms, including the yeasts and molds, that can cause a variety of diseases.
+Ĩmmunity to fungi is complex and involves both humoral and cell-mediated responses.

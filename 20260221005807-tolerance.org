@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       171e8a58-522b-4298-a63e-1c83337a409a
+:END:
+#+title: Tolerance
+#+filetags: :strategy:
+
+The failure to respond to an [[id:262f459e-3873-4ce0-819f-03eab3300722][antigen]].
+Tolerance to [[id:3ba0bef7-b306-4b0a-a4c9-d139d46eb2f2][self antigens]] is an essential feature of the immune system.
+When tolerance is lost, the immune system can lead to [[id:05855572-a5fe-4d6d-8e00-4e19e813b053][autoimmunity]], destroying self tissue.
+Cf. [[id:a00a675d-12ec-41ae-9fc7-a427b9ab1c3e][avoidance]] and [[id:171e8a58-522b-4298-a63e-1c83337a409a][tolerance]].

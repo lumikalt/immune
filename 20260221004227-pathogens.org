@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0ba77d1b-d79e-4bc5-ad25-4b7163b7466c
+:END:
+#+title: Pathogens
+#+filetags:
+
+Microorganisms that typically cause disease when infecting a host.
+
+* Main types:
+- [[id:0333cd12-3cb1-4658-8eab-83fe2ecdc6cf][Viruses]]
+- [[id:b8452fa7-67bb-4ae5-9892-39e711cedfe4][Bacteria]]
+- [[id:0f31a4d9-e6fb-4dd9-b861-57df09fa41b0][Fungi]]
+- [[id:97f850ae-88bf-4eef-b715-4f49df09935c][Parasites]]

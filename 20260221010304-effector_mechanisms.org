@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7059d8d4-bf4a-4553-a201-a9eeb8aaabed
+:END:
+#+title: Effector Mechanisms
+#+filetags: :mechanism:
+
+Processes by which [[id:0ba77d1b-d79e-4bc5-ad25-4b7163b7466c][pathogens]] are destroyed and cleared from the body.
+[[id:090c0160-1393-4a1f-b276-5ea574cd65fc][innate]] and [[id:cfa4ed29-39de-4e4d-907a-4a749a822478][adaptive]] immune responses use most of the same effector mechanisms to eliminate pathogens.

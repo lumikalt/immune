@@ -2,4 +2,4 @@
 :ID:       0c0acdcc-f093-41d2-a7b8-0db4a99478ad
 :END:
 #+title: Dendritic Cells
-
+#+filetags: :cell:innate:

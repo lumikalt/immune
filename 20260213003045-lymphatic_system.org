@@ -2,6 +2,7 @@
 :ID:       c32530ad-a9fb-49e9-a32a-3fb6cd7a56d2
 :END:
 #+title: Lymphatic System 
+#+filetags: :system:
 
 How can immune cells meet and provide the necessary stimulation efficiently when they must first be activated?
 How is this done quickly enough such that invaders are eliminated?
@@ -52,11 +53,12 @@ The largest lymphatic organ in the body.
 It's dark-red, sitting right behind the stomach.
 It has two main functions. It removes old [[id:d9373e6f-2194-4a5a-b1f9-6e492dea23c7][red blood cells]] from circulation, in the red pulp, and it filters out pathogens and immune complexes from the blood, in the white pulp.
 However, unlike the Lymph Nodes, it only filters blood, not lymph.
-Additionally, the spleen holds an emergency reverse of blood, platelets and [[id:d0543e0a-ef0b-4990-b67b-c68084aa2467][monocytes]].
+Additionally, the spleen holds an emergency reserve of blood, platelets, and [[id:d0543e0a-ef0b-4990-b67b-c68084aa2467][monocytes]].
 
 The Red Pulp makes up around 75% of the spleen's volume and is comprised of the Cords of Billroth and venous sinus.
 The Cords of Billroth, also known as the splenic cords, are lined with connective tissue and fibroblasts. They are also full of [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][macrophages]].
-Spleenic blood enters open circulation in the cords, i.e. it doesn't flow through endothelial-lined vessels, and here old or damaged [[id:d9373e6f-2194-4a5a-b1f9-6e492dea23c7][RBC]]s can be [[id:50e80900-a8db-4435-b457-12ea355843d9][phagocytised]].
+Splenic blood enters open circulation in the cords, i.e., it doesn't flow through endothelial-lined vessels, and here old or damaged [[id:d9373e6f-2194-4a5a-b1f9-6e492dea23c7][RBC]]s can be [[id:50e80900-a8db-4435-b457-12ea355843d9][phagocytized]].
+In order to re-enter circulation, [[id:d9373e6f-2194-4a5a-b1f9-6e492dea23c7][RBC]]s must enter the venous sinuses by passing through the interendothelial slit.
 
 ** Thymus
 

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b8452fa7-67bb-4ae5-9892-39e711cedfe4
+:END:
+#+title: Bacteria
+
+A vast kingdom of unicellular prokaryotic microorganisms.
+Some species cause infections in humans and animals, while others make up most of the body's [[id:20458481-b3b6-42c7-9a67-cd27629c9586][commensal microbiota]]. 
+Disease-causing bacteria may live in extracellular spaces or inside cells within vesicles or the cytosol.

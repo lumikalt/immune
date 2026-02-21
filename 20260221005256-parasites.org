@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       97f850ae-88bf-4eef-b715-4f49df09935c
+:END:
+#+title: Parasites 
+#+filetags: :pathogen:
+
+Organisms that obtain sustenance from a live host.
+In immunology, this term refers to worms and protozoa, the subject matter of parasitology.

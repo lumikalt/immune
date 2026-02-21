@@ -2,6 +2,7 @@
 :ID:       9bb41144-8beb-480f-a9ad-22532e47ee39
 :END:
 #+title: HSC
+#+filetags: :cell:
 
 * Hematopoietic Stem Cells
 HSC in the red bone marrow differentiate into red blood cells, white blood cells and platelets.
@@ -21,15 +22,15 @@ These further differentiate into:
 - Proerythroblasts
   - Reticulocytes
     - Erythocytes
-- Mast Cells[fn:1]
+- [[id:2fe9be8e-9485-48fb-88b4-5bfc34736ccd][Mast Cells]]
 - Myeloblasts
-  - Basophils[fn:1]
-  - Neutrophils[fn:1]
-  - Eosinophils[fn:1]
+  - [[id:a91b73b0-b723-4640-a95d-6a21800b9612][Basophils]]
+  - [[id:192625f9-03e4-4d5c-af5c-9c7d07df52ca][Neutrophils]]
+  - [[id:8c383f3a-f935-43a8-b819-5e2f59cda290][Eosinophils]]
 - Monoblasts
   - [[id:d0543e0a-ef0b-4990-b67b-c68084aa2467][Monocytes]]
     - [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][Macrophages]]
-    - [[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][Dentritic Cells]]
+    - [[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][Dendritic Cells]]
 
 ** Lymphoid Stem Cells
 :PROPERTIES:
@@ -41,10 +42,6 @@ These further differentiate into:
   - Natural Killer Cells
     (Large Granular Lymphocytes)
   - Small Lymphocytes
-    - T Lymphocytes
-    - B Lymphocytes
-      - Plasma Cells
-
-* Footnotes
-
-[fn:1] Granulocytes 
+    - [[id:b41a8603-b190-47ff-b727-e8aee492818c][T Lymphocytes]]
+    - [[id:59e57bc1-545d-4cdb-9d15-3318fffeaa08][B Lymphocytes]]
+      - [[id:79f0fc4a-1a64-400a-bb21-4558147c5e75][Plasma Cells]]

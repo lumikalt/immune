@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       192625f9-03e4-4d5c-af5c-9c7d07df52ca
+:END:
+#+title: Neutrophils
+#+filetags: :cell:innate:
+

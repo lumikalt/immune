@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0333cd12-3cb1-4658-8eab-83fe2ecdc6cf
+:END:
+#+title: Viruses
+#+filetags: :pathogen:
+
+[[id:0ba77d1b-d79e-4bc5-ad25-4b7163b7466c][Pathogen]] composed of a nucleic acid genome enclosed in a protein coat.
+Viruses can replicate only in living cells, as they do not possess the metabolic machinery for independent life.

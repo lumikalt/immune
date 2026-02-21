@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       abd31860-fc00-4780-a2a2-3e4f69d324e2
+:END:
+#+title: Single-Spanning Receptors
+
+A single-pass membrane protein, also known as single-spanning protein or bitopic protein is a transmembrane protein that spans the lipid bilayer only once.
+They are the majority of transmembrane proteins, contributing significantly to the network of interactions between different proteins in cells.
+They usually include at least one water-soluble protein domain situated at different sides of biological membranes.

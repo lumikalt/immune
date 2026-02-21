@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ff88351d-8e50-4657-982b-5836868d7247
+:END:
+#+title: Toll-Like Receptors
+#+filetags: :receptor:molecule:
+
+An important family of [[id:36fc813d-eff8-43ec-b497-a3b93099162b][PRR]]s present on sentinel cells, usually [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][macrophages]] and [[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][dendritic cells]].
+They are [[id:abd31860-fc00-4780-a2a2-3e4f69d324e2][single-spanning receptors]], 
+
+* TLR-1—TLR-2 Heterodimer
+:PROPERTIES:
+:ID:       9c1c46bb-db76-4ce7-9dec-557152163c02
+:END:
+Binds certain lipopeptides from pathogens, such as Gram-negative bacteria, and lipoteichoic acids from Gram-positive ones.
+
+* TLR-4
+Binds both lipopolysaccherides from Gram-negative and lipoteichoic acids from gram-positive bacteria.

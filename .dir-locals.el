@@ -1,3 +1,3 @@
 ((nil .
-     ((org-roam-directory . "/home/lumi/docs/immune/")
-      (org-roam-db-location . "/home/lumi/docs/immune/org-roam.db"))))
+      ((org-roam-directory . ".")
+       (org-roam-db-location . "./org-roam.db"))))

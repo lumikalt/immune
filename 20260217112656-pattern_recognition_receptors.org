@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       36fc813d-eff8-43ec-b497-a3b93099162b
+:END:
+#+title: Pattern-Recognition Receptors
+#+filetags: :receptor:protein:
+
+[[id:96a95dcb-e977-4788-8c70-8e110e6cde04][Macrophages]], [[id:192625f9-03e4-4d5c-af5c-9c7d07df52ca][Neutrophils]] and [[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][Dendritic Cells]] express a limited number of these PRRs, invariant innate recognition receptors that recognize [[id:5c77bc29-34b2-4603-909f-9d6afef7ab5e][PAMP]]s.

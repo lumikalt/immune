@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5c77bc29-34b2-4603-909f-9d6afef7ab5e
+:END:
+#+title: Pathogen-Associated Molecular Patterns
+
+Simple molecules and regular patterns of molecular structure that are part of many microorganisms but not the host's own cells.
+
+These include:
+- Mannose-rich oligosaccharides
+- Peptidoglycans
+- Lipopolysaccharides
+  (Of the Bacterial Wall)
+- Unmethylated CpG DNA
+  (Unmethylated Cytosine-Guanine Dinucleotide in DNA)
+
+All of these microbial elements were conserved during evolution, making them excellent targets for recognition, as they do not change.

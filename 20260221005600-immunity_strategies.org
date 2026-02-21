@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       799f8c1e-2886-4f12-bcfa-7d9b533301ed
+:END:
+#+title: Immunity Strategies
+
+There are 3 main ways to deal with [[id:0ba77d1b-d79e-4bc5-ad25-4b7163b7466c][pathogens]]:
+
+- [[id:a00a675d-12ec-41ae-9fc7-a427b9ab1c3e][Avoidance]]
+- [[id:f5670a5d-dcd9-4f43-ad52-5869f4c81536][Resistance]]
+- [[id:171e8a58-522b-4298-a63e-1c83337a409a][Tolerance]]

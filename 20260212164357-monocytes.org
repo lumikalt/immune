@@ -3,6 +3,6 @@
 :END:
 #+title: Monocytes
 
-Cells that differentiate into [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][Macrophages]] and [[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][Dentritic Cells]].
+Cells that differentiate into [[id:96a95dcb-e977-4788-8c70-8e110e6cde04][Macrophages]] and [[id:0c0acdcc-f093-41d2-a7b8-0db4a99478ad][Dendritic Cells]].
 They are present in the bloodstream. During [[id:11bdd9cf-b178-444c-8d12-e5077937f4d8][inflammation]], they can enter tissue.
 These cells also emit [[id:e888562a-30b2-4bad-9810-55c19836b28d][cytokines]].

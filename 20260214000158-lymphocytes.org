@@ -2,6 +2,11 @@
 :ID:       49c29c2a-80c4-4e8b-9ab3-6c4e12129e1c
 :END:
 #+title: Lymphocytes
+#+filetags: :cells:adaptive:
+
+Class of white blood cells that bear variable cell-surface receptors for [[id:262f459e-3873-4ce0-819f-03eab3300722][antigens]] and are responsible for [[id:cfa4ed29-39de-4e4d-907a-4a749a822478][adaptive immune system]] responses.
+There are two main types of lymphocytes — B lymphocytes ([[id:59e57bc1-545d-4cdb-9d15-3318fffeaa08][B cells]]) and T lymphocytes ([[id:b41a8603-b190-47ff-b727-e8aee492818c][T cells]]) — which mediate the humoral and cell-mediated immunity, respectively.
+On antigen recognition, a lymphocyte enlarges to form a lymphoblast and then proliferates and differentiates into an antigen-specific effector cell.
 
 * Naïve Lymphocytes
 :PROPERTIES:

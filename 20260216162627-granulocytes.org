@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       924d79f5-9ddc-45f7-9ec0-8030b760aa74
+:END:
+#+title: Granulocytes
+#+filetags: :cell:innate:
+
+The collective term for [[id:192625f9-03e4-4d5c-af5c-9c7d07df52ca][neutrophils]], [[id:8c383f3a-f935-43a8-b819-5e2f59cda290][eosinophils]] and [[id:a91b73b0-b723-4640-a95d-6a21800b9612][basophils]].

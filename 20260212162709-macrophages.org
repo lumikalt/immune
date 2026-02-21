@@ -2,8 +2,7 @@
 :ID:       96a95dcb-e977-4788-8c70-8e110e6cde04
 :END:
 #+title: Macrophages
-
-The main [[id:d94c3c0d-ece1-4160-82db-2ffdb2d0cddf][Phagocytes]] of the [[id:2ddc83c5-0a1f-447a-a746-e2a3da12247b][Immune System]].
+#+filetags: :cell:innate:
 
 * Functions
 - [[id:50e80900-a8db-4435-b457-12ea355843d9][Phagocytosis]] of pathogens and cellular debris, by consumption of dead and dying host cells.
@@ -16,4 +15,4 @@ The main [[id:d94c3c0d-ece1-4160-82db-2ffdb2d0cddf][Phagocytes]] of the [[id:2dd
 :END:
 These cells originate from the fetal yolk sack, rather than the bone marrow.
 Almost every tissue has a specific type of these.
-This kind of macrophage performs important roles during [[id:6821acc5-a87e-428f-b618-c02ec1942b0f][homeosthasis]].
+This kind of macrophage performs important roles during [[id:6821acc5-a87e-428f-b618-c02ec1942b0f][homeostasis]].

@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       5e3f8fb4-6684-4140-b16b-02199b6c381d
+:END:
+#+title: Clinical Immunology
+
+For Immunology, there are several kinds of [[id:73a271f1-084f-4afb-81f1-3d6a6d375eda][tests]] that allow for a precise diagnosis.
+
+* Complement System
+To evaluate the complement system, we must take into account its three methods of activation:
+- Classical Pathway, with the presence of an antibody-antigen complex and the factors C1, C4 and C2;
+- Alternative Pathway, with the presence of surface [[id:262f459e-3873-4ce0-819f-03eab3300722][antigens]], the factor C3 and the complex B and D;
+- Lectin Pathway, with the binding of manose residues and the presence of the factors C4 and C2.
+
+After activation, there's the common pathway, starting with C3 and progressing further, where the smaller fragments work as chemotaxic substances and the bigger fragments become part of the MAC, formed by C5b, C6, C7, C8 and C9.
+
+To quantify alterations to the complement pathways, one can order several tests:
+- CH50, which analyzes the integrity of the classical pathway. If it returns 0, one or more components are missing. Low CH50 values indicate a reduction of certain factors;
+- C3, for the common pathway;
+- C4, for the classical pathway;
+- B complex, for the alternative pathway.
+
+The complement system evaluation is useful in certain situations:
+1. Congenital deficiency of complement factors;
+2. [[id:05855572-a5fe-4d6d-8e00-4e19e813b053][Autoimmunity]] ([[id:3980229d-f111-4f0a-90b4-b035e48621f4][LES]]);
+3. Evaluation of secondary angioedema (hereditary or acquired), with decreased C4 and C1-inhibitor.
+
+* [[id:49c29c2a-80c4-4e8b-9ab3-6c4e12129e1c][Lymphocytes]]
+Lymphocytes should be evaluated not just in quantitative but also qualitative terms.
+
+** [[id:b41a8603-b190-47ff-b727-e8aee492818c][T lymphocytes]]
+These should be evaluated functionally for cutaneous tests of delayed-type hypersensitivity or by [[id:e888562a-30b2-4bad-9810-55c19836b28d][cytokine]] production.
+
+** [[id:59e57bc1-545d-4cdb-9d15-3318fffeaa08][B Cells]]
+These should be evaluated functionally by assessing of the immune response to the presentation of a protein [[id:262f459e-3873-4ce0-819f-03eab3300722][Antigens]] or by evaluating the production of immunoglobulins.
+
+*** Immunoglobulins Evaluation
+- Quantify through a protein electrophoresis;
+- Qualify through immunoelectrophoresis and of Igs or immunofixation.
+

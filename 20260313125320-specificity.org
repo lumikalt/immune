@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       55b092e6-9eb3-414b-aabd-62306b2b4d7f
+:END:
+#+title: Specificity
+
+Probability of a negative test for a healthy patient. Cf. [[id:534f3093-d793-4240-9dbb-d7fe096e3dd1][sensitivity]].
+
+\begin{align*}
+  specificity &= \frac{\#TN}{\#TN + \#FP} \\
+              &= \frac{\#TN}{\#\text{healthy individuals}}
+\end{align*}
+
+Wherein:
+- True Negative: Healthy individual correctly identified as healthy;
+- False Positive: Healthy individual incorrectly identified as unhealthy.

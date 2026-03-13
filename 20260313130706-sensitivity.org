@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       534f3093-d793-4240-9dbb-d7fe096e3dd1
+:END:
+#+title: Sensitivity
+
+Probability of a positive test for an  unhealthy patient. Cf. [[id:55b092e6-9eb3-414b-aabd-62306b2b4d7f][specificity]].
+
+\begin{align*}
+  sensitivity &= \frac{\#TP}{\#TP + \#FN} \\
+              &= \frac{\#TP}{\#\text{unhealthy individuals}}
+\end{align*}
+
+Wherein:
+- True Positive: Unhealthy individual correctly identified as unhealthy;
+- False Negative: Unhealthy individual incorrectly identified as healthy.

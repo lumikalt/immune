@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       73a271f1-084f-4afb-81f1-3d6a6d375eda
+:END:
+#+title: Medical Testing
+
+Medical tests help report the presence or absence of a medical condition.
+
+An individual with the condition is a "positive", and one without it is a "negative".
+
+A medical test, therefore, can be measured in terms of its [[id:534f3093-d793-4240-9dbb-d7fe096e3dd1][sensitivity]] and [[id:55b092e6-9eb3-414b-aabd-62306b2b4d7f][specificity]].
+Note that, if the true status of the condition cannot be known, these measures can be defined relative to a [[id:58f62b40-c612-47a4-9819-6b3bc21993f5][gold standard test]], which is assumed correct.
+
+For all testing, both diagnoses and screening, there is a trade-off between sensitivity and specificity, as typically higher sensitivity means lower specificity, and vice versa.

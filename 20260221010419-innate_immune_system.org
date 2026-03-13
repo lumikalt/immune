@@ -3,3 +3,30 @@
 :END:
 #+title: Innate Immune System
 
+* Physical And Chemical Barriers
+The first line of defense are the physical and chemical barriers of the body.
+
+** The [[id:7f11d3e2-700d-4400-8b1d-e1dc0f71adf0][Skin]]
+The primary barrier. Its outer layer, the epidermis, is made up of tightly packed dead cells full of keratin, making it a tough and waterproof wall.
+
+Additionally, it's covered in sebum, making it acidic and salty.
+
+Most [[id:0ba77d1b-d79e-4bc5-ad25-4b7163b7466c][pathogens]] cannot breach intact skin, so they enter via the body's "entrances".
+
+** The Mucosa
+Wherever the body has contact with the outer world, with the exception of skin, said surfaces are covered in mucous membranes which secrete mucus.
+
+Mucus is a sticky gel that physically traps pathogens. To expel them, the gut constantly contracts its muscles (peristalsis) to prevent pathogen settlement. Meanwhile, the airways are covered in hair-like structures, the cilia, which beat constantly, sweeping mucus and other detritus up and outwards - the mucociliary escalator.
+
+** Stomach Acid
+With a pH of 1.5 to 2, the stomach destroys most ingested pathogens. Notably, some pathogens in the airways get ejected to the stomach.
+
+** Saliva and Tears
+Tysozyme, an enzyme that breaks down bacterial cell walls, is present in the tears and saliva.
+
+** [[id:20458481-b3b6-42c7-9a67-cd27629c9586][Commensal Microbiota]]
+Many of the body's outer surfaces are covered in commensal organisms, mostly bacteria, which take up space and resources, thereby competing with any pathogen attempting to settle. They are very present in the skin and gut, but notably also in the airways.
+
+** Pattern Recognition
+The Innate Immune System must be able to distinguish self (host) cells from pathogens.
+

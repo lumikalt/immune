@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       14425a47-38b7-46a5-bd7f-394a798bfb7d
+:END:
+#+title: Image Sources
+
+* [[id:090c0160-1393-4a1f-b276-5ea574cd65fc][Innate Immune System]]
+** [[id:7f11d3e2-700d-4400-8b1d-e1dc0f71adf0][Skin]]
+*** Diagrams
+1. Madhero88 and M.Komorniczak, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons

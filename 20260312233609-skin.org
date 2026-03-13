@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       7f11d3e2-700d-4400-8b1d-e1dc0f71adf0
+:END:
+#+title: Skin
+
+* Layers
+#+caption: Diagram of hairy and hairless skin.
+#+name: fig:skin.diag.1
+[[./img/organ/skin/diagram/1.svg]]
